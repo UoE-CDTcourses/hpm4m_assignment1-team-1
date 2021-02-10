@@ -1,0 +1,19 @@
+#Check A row = 0, #Nodes = 3
+     04     03     02
+#Check C row = 0, #Nodes = 3
+     75     68     43
+#Check A row = 1, #Nodes = 3
+     10     08     06
+#Check C row = 1, #Nodes = 3
+    204    184    116
+#Check A row = 2, #Nodes = 3
+     18     15     12
+#Check C row = 2, #Nodes = 3
+    387    348    219
+Brodcasted matrix B:     06     06     04
+     09     08     05
+     12     10     06
+Gathered matrix D:     75     68     43
+    204    184    116
+    387    348    219
+Run time on  3 nodes: 0.000051
